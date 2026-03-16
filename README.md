@@ -1,4 +1,5 @@
 # Hi, I'm Dominic Mogeni 👋
+![AWS SAA](https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-orange?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ### AWS Certified Solutions Architect | DevOps & Platform Engineer | Cloud Engineer
 
 I specialize in building scalable, resilient cloud infrastructure and automating the path from code to production. I’m passionate about **Infrastructure as Code (IaC)**, **Container Orchestration**, and building secure, decoupled architectures on **AWS**.
