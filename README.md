@@ -35,11 +35,13 @@ I specialize in building scalable, resilient cloud infrastructure and automating
 
 ---
 
-### 📫 Connect with me:
-[LinkedIn](www.linkedin.com/in/dominic-mogeni-a85a8019a) | [Portfolio](https://sites.google.com/view/dominicmogeni-portfolio?usp=sharing) | [Email](mailto:dominicogeto2@gmail.com)
-
 ### 📜 Certifications
 - **AWS Certified Solutions Architect – Associate**
 - **ALX Africa Cloud Computing Graduate**
+
+
+### 📫 Connect with me:
+[LinkedIn](www.linkedin.com/in/dominic-mogeni-a85a8019a) | [Portfolio](https://sites.google.com/view/dominicmogeni-portfolio?usp=sharing) | [Email](mailto:dominicogeto2@gmail.com)
+
 
 
