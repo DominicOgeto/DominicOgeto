@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Dominic Mogeni 👋
+### AWS Certified Solutions Architect | DevOps & Platform Engineer | Cloud Engineer
 
-<!--
-**DominicOgeto/DominicOgeto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I specialize in building scalable, resilient cloud infrastructure and automating the path from code to production. I’m passionate about **Infrastructure as Code (IaC)**, **Container Orchestration**, and building secure, decoupled architectures on **AWS**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+- **Cloud:** AWS (VPC, EC2, ECS, EKS, RDS, S3, Lambda, WAF)
+- **IaC & Config:** Terraform, Ansible
+- **CI/CD:** GitHub Actions
+- **Containers:** Docker, Kubernetes
+- **Monitoring:** Prometheus, Grafana, CloudWatch
+- **Scripting:** Python, Bash 
+- **Databases:** MySQL, PostgreSQL, Amazon Aurora
+
+---
+
+### 🏗️ Featured Projects
+
+#### Docker compose project (https://github.com/DominicOgeto/docker-compose-project)
+* Orchestrated a multi-service architecture (Frontend, Backend, and Database) using Docker Compose for consistent development and staging environments.
+* Streamlined the local "spin-up" process, reducing environment setup time from hours to a single command.
+
+#### CI/CD Pipeline for Flask (https://github.com/DominicOgeto/deploy-to-amazon-ECS)
+* Automated deployments to Amazon ECS using GitHub Actions and ECR.
+* Integrated security scanning into the build process.
+  
+---
+
+### 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DominicOgeto&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DominicOgeto&layout=compact&theme=transparent)
+
+---
+
+### 📫 Connect with me:
+[LinkedIn](www.linkedin.com/in/dominic-mogeni-a85a8019a) | [Portfolio](https://sites.google.com/view/dominicmogeni-portfolio?usp=sharing) | [Email](mailto:dominicogeto2@gmail.com)
