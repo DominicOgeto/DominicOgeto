@@ -38,7 +38,7 @@ I specialize in building scalable, resilient cloud infrastructure and automating
 
 ### 📜 Certifications
 - **AWS Certified Solutions Architect – Associate**
-- **ALX Africa Cloud Computing Graduate**
+- **ALX Certified Cloud Practitioner**
 
 
 ### 📫 Connect with me:
