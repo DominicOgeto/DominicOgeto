@@ -9,10 +9,10 @@ I specialize in building scalable, resilient cloud infrastructure and automating
 
 - **Cloud:** AWS (VPC, EC2, ECS, EKS, RDS, S3, Lambda, WAF)
 - **IaC & Config:** Terraform, Ansible
-- **CI/CD:** GitHub Actions
+- **CI/CD Pipelines:** GitHub Actions
 - **Containers:** Docker, Kubernetes
 - **Monitoring:** Prometheus, Grafana, CloudWatch
-- **Scripting:** Python, Bash 
+- **Scripting:** Python, Bash/Linux 
 - **Databases:** MySQL, PostgreSQL, Amazon Aurora
 
 ---
@@ -37,3 +37,9 @@ I specialize in building scalable, resilient cloud infrastructure and automating
 
 ### 📫 Connect with me:
 [LinkedIn](www.linkedin.com/in/dominic-mogeni-a85a8019a) | [Portfolio](https://sites.google.com/view/dominicmogeni-portfolio?usp=sharing) | [Email](mailto:dominicogeto2@gmail.com)
+
+### 📜 Certifications
+- **AWS Certified Solutions Architect – Associate**
+- **ALX Africa Cloud Computing Graduate**
+
+
